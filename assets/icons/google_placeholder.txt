@@ -1,0 +1,2 @@
+Add Google logo icon here (google.png)
+Download from: https://developers.google.com/identity/branding-guidelines
