@@ -50,7 +50,7 @@ class _CreateAlertPageState extends State<CreateAlertPage> {
                 ),
                 const SizedBox(height: 8),
                 DropdownButtonFormField<String>(
-                  value: _selectedType,
+                  initialValue: _selectedType,
                   decoration: const InputDecoration(
                     prefixIcon: Icon(Icons.category),
                   ),

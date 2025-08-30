@@ -16,9 +16,7 @@ safealert_firebase/
 │   └── main.dart        # Point d'entrée de l'application
 ├── assets/              # Ressources statiques (images, fonts, etc.)
 ├── pubspec.yaml         # Dépendances du projet
-├── FIREBASE_SETUP.md    # Guide de configuration Firebase
-├── INSTALLATION.md      # Guide d'installation et déploiement
-└── GUIDE_UTILISATION.md # Guide d'utilisation pour les utilisateurs finaux
+├── README.md            # Fichier README
 ```
 
 ## Technologies utilisées
